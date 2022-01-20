@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="Anx4-I86r_FQF5YJ8wt3" name="Page-1">
+        <mxGraphModel dx="1079" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTJwdCIgaGVpZ2h0PSI1MTJwdCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+CiA8Zz4KICA8cGF0aCBkPSJtNDM2Ljc1IDI5Ny4xMSAxMC44NjMgMTAuODYzLTE3LjY4OCAxNy44NGgtMTQyLjg5di0xNS41MTJoMTM2LjM4eiIvPgogIDxwYXRoIGQ9Im0zNzIuMzYgMTk0LjA5YzMyLjU4MiAxLjM5NDUgNjEuOTA2IDExLjE3MiA3OC42NiAyNi4yMTkgMjguNzAzIDI1LjYwMiAxMy4zMjggNTguOTU3LTM0LjQ2MSA3NC40NzNsLTEwMy45MyAwLjAwMzkwNmMtMTIuNDI2LTQuMDM1Mi0yMi45NjEtOS40NjQ4LTMxLjE5OS0xNS44MjhsLTE3My43Ny0yOS40NzctMTQuMjU4IDE0LjI3M2gtNDYuODU1bDE5LjM5MS0zOC43ODktMzQuOTA2LTY5LjgxNmg0Ny45NDFsMzguNzg5IDYyLjA2MiAxNjQuMTUtMC4wMDM5MDZjMTcuMjIzLTEzLjM0NCA0NC42ODQtMjEuODc1IDc0LjkzOC0yMy4xMTd2LTcuOTEwMmgtMTAwLjg1di0xNS41MTZoMjI0Ljk3djE1LjUxNmgtMTA4LjYxdjcuOTE0MXoiLz4KIDwvZz4KPC9zdmc+;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="90" width="250" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-150;strokeColor=none;fillColor=#F0FF17;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="278" width="445.52" height="101.78" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="390" width="730" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
